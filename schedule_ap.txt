@@ -1,3 +1,4 @@
+DRUG_CODE,SCHEDULE,SCHEDULE_F
 "25882","OTC","En vente libre"
 "19730","Prescription","Prescription"
 "19731","Prescription","Prescription"
