@@ -1,3 +1,4 @@
+DRUG_CODE,ROUTE_OF_ADMINISTRATION_CODE,ROUTE_OF_ADMINISTRATION,ROUTE_OF_ADMINISTRATION_F
 "18073","56","ORAL","Orale"
 "25876","8","DISINFECTANT (Food Premises)","Désinfectant (Lieux de transformation alimetaire)"
 "25876","9","DISINFECTANT (Hospital/HC Facilities)","Désinfectant (Hôpitaux, établissements de soins de santé)"
