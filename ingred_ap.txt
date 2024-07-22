@@ -1,3 +1,4 @@
+DRUG_CODE,ACTIVE_INGREDIENT_CODE,INGREDIENT,INGREDIENT_SUPPLIED_IND,STRENGTH,STRENGTH_UNIT,STRENGTH_TYPE,DOSAGE_VALUE,BASE,DOSAGE_UNIT,NOTES,INGREDIENT_F,STRENGTH_UNIT_F,STRENGTH_TYPE_F,DOSAGE_UNIT_F
 "100003","6343","PRAMOXINE HYDROCHLORIDE","I","1","%","","","N","W/V","","Chlorhydrate de pramoxine","%","","p/v"
 "100003","6353","ZINC ACETATE","I","0.1","%","","","N","W/V","","Acétate de Zinc","%","","p/v"
 "100013","6506","HYDROXYCHLOROQUINE SULFATE","I","200","MG","","","N","","","Sulfate d'hydroxychloroquine","MG","",""
@@ -1081,7 +1082,8 @@
 "102678","20120","HYPOCHLOROUS ACID","I","0.017","%","","","N","W/W","","Acide hypochloreux","%","","p/p"
 "102680","7218","IODINE (ALKYL POLY ETHOXY ETHANOL - IODINE COMPLEX)","I","0.5","%","","","N","W/W","","Iode (Alkyl Poly Ethoxy Ethanol - Iodine Complex)","%","","p/p"
 "102685","7218","IODINE (ALKYL POLY ETHOXY ETHANOL - IODINE COMPLEX)","I","1","%","","","N","W/W","","Iode (Alkyl Poly Ethoxy Ethanol - Iodine Complex)","%","","p/p"
-"102690","23846","VIBRIO CHOLERAE, STRAIN CVD 103-HGR, LIVE","I","2000000000","UNIT","","","N","DOSE","4X108 TO 2X109 CFU/DOSE OF RECOMBINANT LIVE ATTENUATED V. CHOLERAE VACCINE STRAIN CVD 103-HGR","Souche CVD 103-HGR de vibrio cholerae, vivant","Unité","","Dose"
+"102690","23846","VIBRIO CHOLERAE, STRAIN CVD 103-HGR, LIVE","I","2000000000","UNIT","","","N","DOSE","4X108 TO 2X109 CFU/DOSE OF RECOMBINANT LIVE ATTENUATED V. CHOLERAE VACCINE STRAIN CVD 103-HGR
+","Souche CVD 103-HGR de vibrio cholerae, vivant","Unité","","Dose"
 "102692","22541","APREMILAST","I","10","MG","","","N","","","APREMILAST","MG","",""
 "102692","22541","APREMILAST","I","20","MG","","","N","","","APREMILAST","MG","",""
 "102692","22541","APREMILAST","I","30","MG","","","N","","","APREMILAST","MG","",""
@@ -1366,7 +1368,9 @@
 "103116","7218","IODINE (POLYETHOXY POLYPROPOXY POLYETHOXY ETHANOL - IODINE COMPLEX)","I","0.5","%","","","N","W/W","","Iode (Complexe iode-polyéthoxy polypropoxy polyéthoxy éthanol)","%","","p/p"
 "103117","7152","CETYLPYRIDINIUM CHLORIDE","I","0.075","%","","","N","W/W","","Chlorure de cétylpyridinium","%","","p/p"
 "103118","7218","IODINE (POLYETHOXY POLYPROPOXY POLYETHOXY ETHANOL - IODINE COMPLEX)","I","1","%","","","N","W/W","","Iode (Complexe iode-polyéthoxy polypropoxy polyéthoxy éthanol)","%","","p/p"
-"103125","744","HAEMAGGLUTININ-STRAIN A (H1N1)","I","15","MCG","","0.5","N","ML","HEMAGGLUTININ STRAIN:A/CALIFORNIA/7/2009 (H1N1) PDM09-LIKE STRAIN. THIS IS AN  HA PROTEIN, DERIVED","Hémagglutinine-souche A (H1N1)","MCG","","ML"
+"103125","744","HAEMAGGLUTININ-STRAIN A (H1N1)","I","15","MCG","","0.5","N","ML","HEMAGGLUTININ STRAIN:
+A/CALIFORNIA/7/2009 (H1N1) PDM09-
+LIKE STRAIN. THIS IS AN  HA PROTEIN, DERIVED","Hémagglutinine-souche A (H1N1)","MCG","","ML"
 "103126","11175","KETOTIFEN (KETOTIFEN FUMARATE)","I","0.25","MG","","","N","ML","","Kétotifène (Fumarate de kétotifène)","MG","","ML"
 "103130","196","ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE","I","5","%","","","N","W/W","","Chlorure d'alkyl diméthyl éthylbenzyl ammonium","%","","p/p"
 "103130","197","BENZALKONIUM CHLORIDE","I","5","%","","","N","W/W","","Chlorure de benzalkonium","%","","p/p"
@@ -1922,7 +1926,8 @@
 "103772","424","AZITHROMYCIN (AZITHROMYCIN DIHYDRATE)","I","600","MG","","","N","","","Azithromycine (Dihydrate d'Azithromycine)","MG","",""
 "103773","11784","MONTELUKAST (MONTELUKAST SODIUM)","I","4","MG","","","N","","","Montélukast (Montélukast sodique)","MG","",""
 "103774","11784","MONTELUKAST (MONTELUKAST SODIUM)","I","5","MG","","","N","","","Montélukast (Montélukast sodique)","MG","",""
-"103775","23931","EPLONTERSEN (EPLONTERSEN SODIUM)","I","45","MG","","0.8","N","ML","","Éplontersen (Éplontersen sodique)","MG","","ML"
+"103775","23931","EPLONTERSEN (EPLONTERSEN SODIUM)","I","45","MG","","0.8","N","ML","","Éplontersen (Éplontersen 
+sodique)","MG","","ML"
 "103776","698","POLYETHYLENE GLYCOL 3350","I","100","%","","","N","W/W","","POLYETHYLENE GLYCOL 3350","%","","p/p"
 "103777","12048","OCTISALATE","I","5","%","","","N","W/W","","Octisalate","%","","p/p"
 "103777","1970","HOMOSALATE","I","15","%","","","N","W/W","","Homosalate","%","","p/p"
