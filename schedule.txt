@@ -1,3 +1,4 @@
+DRUG_CODE,SCHEDULE,SCHEDULE_F
 "10000","Prescription","Prescription"
 "100000","OTC","En vente libre"
 "100001","OTC","En vente libre"
