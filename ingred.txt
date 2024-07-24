@@ -1,3 +1,4 @@
+DRUG_CODE,ACTIVE_INGREDIENT_CODE,INGREDIENT,INGREDIENT_SUPPLIED_IND,STRENGTH,STRENGTH_UNIT,STRENGTH_TYPE,DOSAGE_VALUE,BASE,DOSAGE_UNIT,NOTES,INGREDIENT_F,STRENGTH_UNIT_F,STRENGTH_TYPE_F,DOSAGE_UNIT_F
 "43063","424","AZITHROMYCIN","I","250","MG","","","N","","HISTORIC FREEFORM TEXT: AZITHROMYCIN ((AZITHROMYCIN DIHYDRATE))","Azithromycine","MG","",""
 "46832","16202","RABIES VACCINE INACTIVATED (HUMAN DIPLOID-CELL CULTURE)","I","2.5","UNIT","","","N","VIAL","HISTORIC FREEFORM TEXT: RABIES VACCINE DRIED HUMAN DIPLOID CELL RABIES VACCINE.","Vaccin antirabique inactivé (cultivé sur cellules diploïdes humaines)","Unité","","Fiole"
 "43846","1755","CARBOPLATIN","I","10","MG","","","N","ML","HISTORIC FREEFORM TEXT: CARBOPLATIN","Carboplatine","MG","","ML"
@@ -16376,7 +16377,8 @@
 "102795","4918","VITAMIN K1","I","50","MG","","","N","","PREFERRED FOR PHYTOMENADIONE","Vitamine K1","MG","",""
 "102889","22964","APALUTAMIDE","I","240","MG","","","N","","","APALUTAMIDE","MG","",""
 "102890","23665","TRALOKINUMAB","I","300","MG","","2","N","ML","","Tralokinumab","MG","","ML"
-"102891","23867","RESPIRATORY SYNCYTIAL VIRUS PREFUSION F PROTEIN (RSVPREF3)","I","120","MCG","","0.5","N","ML","","Protéine F préfusion du virus respiratoire syncytial (RSVPREF3)","MCG","","ML"
+"102891","23867","RESPIRATORY SYNCYTIAL VIRUS PREFUSION F PROTEIN (RSVPREF3)","I","120","MCG","","0.5","N","ML","","Protéine F préfusion du virus respiratoire syncytial (RSVPREF3)
+","MCG","","ML"
 "102892","22542","IBRUTINIB","I","70","MG","","","N","ML","","Ibrutinib","MG","","ML"
 "101558","9152","DOCUSATE SODIUM","I","283","MG","","5","N","ML","","Docusate sodique","MG","","ML"
 "102054","22549","DAPAGLIFLOZIN","I","5","MG","","","N","","","Dapagliflozine","MG","",""
@@ -17370,7 +17372,8 @@
 "102743","23860","CENOBAMATE","I","100","MG","","","N","","","Cénobamate","MG","",""
 "102744","23860","CENOBAMATE","I","150","MG","","","N","","","Cénobamate","MG","",""
 "102745","23860","CENOBAMATE","I","200","MG","","","N","","","Cénobamate","MG","",""
-"102820","21077","PLERIXAFOR","I","20","MG","","","N","ML","24 MG/1.2 ML (20 MG/ML) ","Plérixafor","MG","","ML"
+"102820","21077","PLERIXAFOR","I","20","MG","","","N","ML","24 MG/1.2 ML (20 MG/ML)
+ ","Plérixafor","MG","","ML"
 "103062","20127","POSACONAZOLE","I","100","MG","","","N","","","Posaconazole","MG","",""
 "101962","11320","CARBOPROST (CARBOPROST TROMETHAMINE)","I","250","MCG","","","N","ML","","Carboprost (Trométhamine de carboprost)","MCG","","ML"
 "102221","918","MIDODRINE HYDROCHLORIDE","I","2.5","MG","","","N","","","Chlorhydrate de midodrine","MG","",""
